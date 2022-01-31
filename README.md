@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**Kratakey/Kratakey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+<img width="5%" title="IntelliJ IDEA" src="img/Intelij_IDEA.svg">
+<img width="5%" title="Java" src="img/Java.svg">
+<img width="5%" title="Selenide" src="img/Selenide.svg">
+<img width="5%" title="Selenoid" src="img/Selenoid.svg">
+<img width="5%" title="Allure Report" src="img/Allure_Report.svg">
+<img width="5%" title="Gradle" src="img/Gradle.svg">
+<img width="5%" title="JUnit5" src="img/JUnit5.svg">
+<img width="5%" title="Github" src="img/Git.svg">
+<img width="5%" title="Jenkins" src="img/Jenkins.svg">  
+<img width="5%" title="REST-Assured" src="img/Rest-Assured.svg">
+<img width="5%" title="Allure TestOps" src="img/Allure_EE.svg">
+<img width="5%" title="Jira" src="img/Jira.svg">
+<img width="5%" title="Telegram" src="img/Telegram.svg">
+</p>
