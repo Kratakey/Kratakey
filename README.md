@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+My, stack
 <p align="center">
 <img width="5%" title="IntelliJ IDEA" src="img/Intelij_IDEA.svg">
 <img width="5%" title="Java" src="img/Java.svg">
@@ -14,4 +15,8 @@
 <img width="5%" title="Allure TestOps" src="img/Allure_EE.svg">
 <img width="5%" title="Jira" src="img/Jira.svg">
 <img width="5%" title="Telegram" src="img/Telegram.svg">
+<img width="5%" title="Telegram" src="img/Appium.svg">
+<img width="5%" title="Telegram" src="img/Browserstack.svg">
+<img width="5%" title="Telegram" src="img/Docker.svg">
+<img width="5%" title="Telegram" src="img/Selenium.svg">
 </p>
