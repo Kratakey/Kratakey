@@ -16,8 +16,8 @@
 <img width="4%" title="GitHub Actions" src="img/Github-Actions.svg">
 <img width="4%" title="REST-Assured" src="img/Rest-Assured.svg">
 <img width="4%" title="Allure TestOps" src="img/Allure_EE.svg">
-<img width="4%" title="Redmine" src="img/Redmine.svg">
 <img width="4%" title="Jira" src="img/Jira.svg">
+<img width="4%" title="Redmine" src="img/Redmine.svg">
 <img width="4%" title="Appium" src="img/Appium.svg">
 <img width="4%" title="Browserstack" src="img/Browserstack.svg">
 <img width="4%" title="Telegram" src="img/Telegram.svg">
