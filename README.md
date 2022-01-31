@@ -1,4 +1,4 @@
-### Hi there 👋
+### QA Automation Engineer
 
 ## My stack:
 <p align="center">
